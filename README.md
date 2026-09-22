@@ -58,3 +58,10 @@ varshakurandawad@gmail.com
 
 GitHub:
 https://github.com/varsha2117
+
+
+Updated portfolio now reflects the resume details: InternPe experience, education scores/CGPA, certifications, strengths, and full contact information.
+
+
+## Contact form
+The portfolio contact form is connected to Formspree using form ID `xoevdbee`. Messages are submitted through the Formspree endpoint and can be delivered to the target email configured in the Formspree dashboard.

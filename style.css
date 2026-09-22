@@ -11,3 +11,12 @@
 .orbit-1{top:27px;left:25px}.orbit-2{bottom:28px;right:25px}.orbit-3{top:45%;right:15px}
 .project-link{display:inline-block;color:#a99cff;font-size:13px;margin-top:20px}
 @media(max-width:850px){.profile-photo-wrap{position:relative;right:auto;top:auto;margin:0 auto 20px;width:155px;height:155px}.hero-visual{display:flex;flex-direction:column;padding-top:15px}}
+
+.education-list{display:grid;gap:14px}.cert-section{margin-top:45px}.cert-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:12px}.cert-grid>div{padding:18px;border:1px solid rgba(255,255,255,.08);border-radius:14px;background:rgba(16,18,26,.6);font-size:13px;color:#d4d8e2}.cert-grid span{display:block;color:#777e8e;font-size:11px;margin-top:6px}.strengths{margin-top:30px}.contact-details{display:grid;gap:14px;margin-top:28px}.contact-details>a,.contact-details>div{padding:14px 16px;border:1px solid rgba(255,255,255,.08);border-radius:12px;background:rgba(16,18,26,.55);transition:.25s}.contact-details>a:hover{border-color:rgba(140,123,255,.35);transform:translateY(-2px)}.contact-details strong{font-size:13px;color:#d9dce5;word-break:break-word}.contact-details small{margin-bottom:3px}.timeline-item p+p{margin-top:10px}@media(max-width:850px){.cert-grid{grid-template-columns:1fr}}
+
+
+/* Formspree contact status */
+.form-status { margin-top: 12px; min-height: 1.2em; font-size: .92rem; line-height: 1.5; }
+.form-status.success { color: #8ee6c5; }
+.form-status.error { color: #ff9b9b; }
+.contact-form button:disabled { opacity: .65; cursor: wait; }
